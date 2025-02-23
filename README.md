@@ -27,7 +27,7 @@ pip install numpy pandas matplotlib scikit-learn seaborn lightgbm optuna categor
 ```
 
 ## Download the Dataset
-Before running the project, download the dataset from Kaggle, using the link provided above.
+Before running the project, download the dataset from Kaggle, using the link provided above and place it in the same directory as the Jupyter notebook ('adult_inc_class.ipynb').
 
 ## How to run
 
